@@ -56,5 +56,5 @@ public class TaskDetailsDialog extends Dialog<Task> {
             return null;
         });
     }
-    
+
 }
