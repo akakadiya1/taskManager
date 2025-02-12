@@ -1,5 +1,6 @@
-package ca.senecacollege.workshop.taskapp.models;
+package ca.senecacollege.workshop.taskapp.views;
 
+import ca.senecacollege.workshop.taskapp.models.Task;
 import javafx.geometry.Insets;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
